@@ -1,3 +1,4 @@
 # ignore .pdf
 *.DS_Store
 *.ipynb_checkpoints/
+*.jpeg
